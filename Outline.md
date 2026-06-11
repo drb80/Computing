@@ -1,9 +1,25 @@
+# Overview
+* Programming isn't as difficult as it's made out to be
+* Programs take one form of input and create a different form of output
+    * Transforamers of data
+  
+# Development environment
+* Scribbler
+* Browsers with builtin JavaScript
+    * Console
+        * Interactive JavaScript
+        * Errors
+* Git
+* GitHub
+    * VSCode lite
+    * Co-pilot AI
+
 # Three kinds
 There are only three kinds of statements
     - Sequential
     - Conditional
     - Iterative
-We'll look at each in turn.
+We'll look at each in turn. Von Neumann architecture.
 
 ## Sequential
 sequential statements is where almost all the work gets done.
@@ -38,6 +54,7 @@ sequential statements is where almost all the work gets done.
     for
     while
 
+## Data structures
 ### Arrays
-
-### Maps
+### Maps?
+### Intro to OO?
