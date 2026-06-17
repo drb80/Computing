@@ -1,4 +1,4 @@
-# Overview
+# Overview (DONE)
 * Programming isn't as difficult as it's made out to be
 * Programs take one form of input and create a different form of output
     * Transforamers of data
@@ -14,7 +14,7 @@
     * VSCode lite
     * Co-pilot AI
 
-# Three kinds
+# Three kinds (DONE)
 There are only three kinds of statements
     - Sequential
     - Conditional
@@ -47,10 +47,10 @@ sequential statements is where almost all the work gets done.
 
 ### String manipulation
 
-## Conditional
+## Conditional (DONE)
     if/then/else
 
-## Iterative
+## Iterative (DONE)
     for
     while
 
