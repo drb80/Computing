@@ -55,6 +55,9 @@ sequential statements is where almost all the work gets done.
     while
 
 ## Data structures
-### Arrays
+### Arrays (DONE)
+-Linked Lists (DONE)
+-Stacks (DONE)
+-Queues (DONE)
 ### Maps?
 ### Intro to OO?
