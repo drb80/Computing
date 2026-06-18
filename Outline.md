@@ -2,7 +2,7 @@
 * Programming isn't as difficult as it's made out to be
 * Programs take one form of input and create a different form of output
     * Transforamers of data
-    * Syntax(DONE)
+  
   
 # Development environment
 * Scribbler
