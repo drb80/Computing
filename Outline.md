@@ -65,3 +65,7 @@ sequential statements is where almost all the work gets done.
 ### Intro to OO?
 
 ## Object Oriented Programming (Have started) 
+-Classes
+-Objects
+-Properties
+-Methods
