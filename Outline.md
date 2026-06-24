@@ -64,8 +64,14 @@ sequential statements is where almost all the work gets done.
 ### Maps?
 ### Intro to OO?
 
-## Object Oriented Programming (Have started) 
+## Object Oriented Programming (DONE)  
 -Classes
 -Objects
 -Properties
 -Methods
+
+
+-Abstraction
+-Encapsulation
+-Inheritance
+-Polymorphism 
